@@ -1,3 +1,4 @@
 creation par master ajout de master 
 creation par master ajout de br1 
 ajout 4eme scenario de br1
+ajout 4eme scenario de master
